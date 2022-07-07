@@ -294,7 +294,7 @@ nav{
     margin: 100px auto;
     width: 90%;
     background-image:linear-gradient(rgba(130, 136, 158, 0.7),
-    rgba(109, 115, 138, 0.7)), url(/images/mit.jpeg);
+    rgba(109, 115, 138, 0.7)), url(images/mit.jpeg);
     background-position: center;
     background-size: cover;
     border-radius: 20px;
